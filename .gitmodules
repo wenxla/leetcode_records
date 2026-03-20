@@ -1,0 +1,3 @@
+[submodule "resources/leethub/leetcode/resources"]
+	path = resources/leethub/leetcode/resources
+	url = git@github.com:wenxla/leethub_record.git
